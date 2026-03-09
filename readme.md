@@ -57,7 +57,7 @@ The entry point. Connects all 3 AI files and runs everything.
   3. Loads quality_switch.py
   4. Opens the camera
   5. Runs a loop: detect → blur → switch quality → display
-  6. Leaves TODO placeholders for Person 2 (GStreamer + WebRTC)
+
 
 
  HOW TO RUN
