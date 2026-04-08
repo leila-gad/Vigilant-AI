@@ -1,0 +1,8 @@
+cameras:
+  - id: "cam-phone"
+    name: "Telephone IP Webcam Pro"
+    url: "rtsp://192.168.137.60:8080/video"
+    width: 1280
+    height: 720
+    fps: 25
+    transport: "tcp"
